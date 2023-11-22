@@ -1,13 +1,13 @@
-package com.stupp.restws;
+package com.wyden.banco.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestwsApplication {
+public class MainApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestwsApplication.class, args);
+		SpringApplication.run(MainApp.class, args);
 	}
 
 }
